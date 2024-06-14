@@ -1,0 +1,9 @@
+keyboard==0.13.5
+lap==0.4.0
+mss==9.0.1
+numpy==1.26.4
+opencv_python==4.10.0.82
+Pillow==10.3.0
+PyAutoGUI==0.9.54
+pygame==2.5.2
+ultralytics==8.2.28
